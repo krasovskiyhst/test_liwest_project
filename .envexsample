@@ -1,0 +1,7 @@
+export SECRET_KEY='django-insecure-$w*gd^(&f-7%ahp!5xsf0rr6k#j%)h!bfd3@h4_*q-*+qvx-o%'
+
+export NAME='db_test_liwest'
+export USER='postgres'
+export PASSWORD='DVdh4nsn161zX0gv91ORjwtr4cLbY'
+export HOST='localhost'
+export PORT='5432'
